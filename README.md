@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @quangkhai88
+- 👋 Hi, I’m Quang-Khai
 - 👀 I’m interested in IT, movie, traveling, reading....
-- 🌱 I’m currently doing st on Algo, kata, Docker/K8S, Cloud native 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing st on Algo, AI Agent, Programming, Kata, Docker/K8S/AWS, Cloud native
 - 📫 How to reach me: quangkhai.tran.fr@gmail.com
 
 <!---
